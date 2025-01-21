@@ -1,0 +1,12 @@
+[submodule "P1"]
+	path = P1
+	url = https://github.com/UlyssesZh/Archive_P1.git
+[submodule "P2"]
+	path = P2
+	url = https://github.com/UlyssesZh/UCSB-PHYS-129L-PS1-P2.git
+[submodule "P3"]
+	path = P3
+	url = https://github.com/UlyssesZh/Problem_3.git
+[submodule "P4"]
+	path = P4
+	url = https://github.com/UlyssesZh/UCSB-PHYS-129L-Section-1.git
